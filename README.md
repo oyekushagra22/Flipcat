@@ -1,4 +1,4 @@
-# FlipCat (Frontend)
+# FlipCat (Backend)
 
 ## What is FlipCat?
 
@@ -10,3 +10,6 @@ Like Flipkart, User can SignUp and Login, View different products and add them t
 
 ## Links
 
+- Live Version of FlipCat : [flipcatfr.netlify.com](https://flipcatfr.netlify.app/)
+- Frontend : [GitHub](https://github.com/rishabhvarshney14/FlipCat-Frontend)
+- Backend (You are here) : [GitHub](https://github.com/rishabhvarshney14/FlipCat-Backend)
